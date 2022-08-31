@@ -21,7 +21,7 @@
 		"redhat.vscode-xml",
 		"pivotal.vscode-boot-dev-pack"
 	],
-	"forwardPorts": [8081],
+	"forwardPorts": [8080],
 	"settings": {
 		"java.import.gradle.enabled": false
 	}
